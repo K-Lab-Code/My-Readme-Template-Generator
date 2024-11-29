@@ -2,16 +2,9 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This project is designed to make building a ReadMe file easy and quicker. As a programer I understand that not all programers like some of the none programing parts of the projects such as the ReadMe file. That is why I made this project to make it easier for programers to quickly generate their ReadMe files so they can quickly move on to the heart of the project and start coding. Making this project was also good practice for getting a better understanding of how a ReadMe file should look and I highly recommend anyone that wants to get more better at making a ReadMe file should try making there own version of this project as well.
 
 ## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -20,48 +13,19 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+In order to install this project on your own computer copy either copy all the files from repository or use your git bash terminal to clone the repository down to your own machine. Once you have all the fils for the project you will then need to install [node js](https://nodejs.org/en) if you don't have that already.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+Once you have both My-Readme-Template-Generator project on your computer and node js downloaded run your terinal and naviagte to the projects folder. You should then open up the directory for this project and layout should look something like this:   
+![Pic of file directory for the project](assets/images/snap-shoot-one.png)  
+There should also be a generateMarkdown.js file in utils folder.
+If for some reason it is not orginized right try rearranging the files, pulling project or clonning the project again to fix it. If theres not problems then in your computers terminal navigate to project and open up its directory and run command: "node index.js". after doing this the project should begin to run and ask you for info to generate your ReadMe file. The file should appear in your project as "My-ReadMe.md". Be warned that everytime you run the project and finsh answering the prompts the project will overide the current "My-ReadMe.md" file so move or copy it out before then.
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+As a template for my ReadMe file and inspiration for ReadMe file generator I used this blogs post: [Professional ReadMe File By The Ful-Stack Blog](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+Distributed under the MIT License. See LICENSE.txt for more information.

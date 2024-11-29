@@ -100,7 +100,7 @@ ${data.contribution}
 
 ## License
 
-${(renderLicenseSection(data.license) === "")? 'This project is currently unlicensed.':`This application us covered under the ${renderLicenseSection(data.license)}.`}
+${(renderLicenseSection(data.license) === "")? 'This project is currently unlicensed.':`Distributed under the ${renderLicenseSection(data.license)}. See LICENSE.txt for more information.`}
  
 ## Questions
 
