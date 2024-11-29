@@ -22,7 +22,14 @@ Once you have both My-Readme-Template-Generator project on your computer and nod
 There should also be a generateMarkdown.js file in utils folder.
 If for some reason it is not orginized right try rearranging the files, pulling project or clonning the project again to fix it. If theres not problems then in your computers terminal navigate to project and open up its directory and run command: "node index.js". after doing this the project should begin to run and ask you for info to generate your ReadMe file. The file should appear in your project as "My-ReadMe.md". Be warned that everytime you run the project and finsh answering the prompts the project will overide the current "My-ReadMe.md" file so move or copy it out before then.
 
+For a walkthrough of how to use the application [Click Here](https://drive.google.com/file/d/1bT8SY0dOUtcK0CNuMRFuQ0rvAM_cuNJt/view).
+
 ## Credits
+
+Project Designer:
+Kalab Smith
+- [K-Lab-Code](https://github.com/K-Lab-Code)
+- [kalabsb@me.com](mailto:kalabsb@me.com)
 
 As a template for my ReadMe file and inspiration for ReadMe file generator I used this blogs post: [Professional ReadMe File By The Ful-Stack Blog](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
