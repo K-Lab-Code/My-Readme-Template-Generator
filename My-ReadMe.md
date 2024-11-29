@@ -1,9 +1,9 @@
-# kalab
+# pet tracker
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-ssfda
+track your pets needs
 
 ## Table of Contents
 
@@ -17,19 +17,19 @@ ssfda
 
 ## Installation
 
-fdfdd
+click link to website
 
 ## Usage
 
-fff
+to create todo list for your pets
 
 ## Credits
 
-dfdfd
+cody, kalab, joel, conner
 
 ## License
 
-This application us covered under the MIT License.
+Distributed under the MIT License. See LICENSE.txt for more information.
  
 ## Questions
 
@@ -39,4 +39,4 @@ If you want to contact me with further questions here is my contact info:
 
 ## Tests
 
-fdfdfd
+none
