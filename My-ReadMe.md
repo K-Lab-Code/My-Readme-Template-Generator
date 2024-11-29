@@ -1,9 +1,9 @@
-# daf
-
+# kalab
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-ffdf
+ssfda
 
 ## Table of Contents
 
@@ -17,26 +17,26 @@ ffdf
 
 ## Installation
 
-dfdf
+fdfdd
 
 ## Usage
 
-ddf
+fff
 
 ## Credits
 
-fdf
+dfdfd
 
 ## License
 
-This project is currently unlicensed
+This application us covered under the MIT License.
  
 ## Questions
 
 If you want to contact me with further questions here is my contact info:
-- [h](https://github.com/h)
-- [g](mailto:g)
+- [K-Lab-Code](https://github.com/K-Lab-Code)
+- [kalabsb@me.com](mailto:kalabsb@me.com)
 
 ## Tests
 
-fdf
+fdfdfd
