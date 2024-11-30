@@ -1,4 +1,4 @@
-# My-Readme-Template-Generator
+# My Readme Template Generator
 
 ## Description
 
