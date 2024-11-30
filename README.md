@@ -4,7 +4,7 @@
 
 This project is designed to make building a ReadMe file easy and quicker. As a programer I understand that not all programers like some of the none programing parts of the projects such as the ReadMe file. That is why I made this project to make it easier for programers to quickly generate their ReadMe files so they can quickly move on to the heart of their project's and start coding. Making this project was also good practice for getting a better understanding of how a ReadMe file should look and I highly recommend anyone that wants to get better at making a ReadMe file should try making there own version of this project as well.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
